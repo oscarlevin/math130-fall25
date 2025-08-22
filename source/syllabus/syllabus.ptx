@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <chapter xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Syllabus</title>
+
+    <section xml:id="sec-course-info">
+      <title>Course Information</title>
+
+      <p>
+        <dl>
+        <li>
+            <title>Course</title>
+          <p>
+            Supplemental Calculus, MATH 130 Fall 2025 (1 credit)
+          </p>
+        </li>
+        <li>
+          <title>Instructors</title>
+
+          <p>
+            Oscar Levin, Ross Hall 2040D, <url href="mailto:oscar.levin@unco.edu">oscar.levin@unco.edu</url>.
+          </p>
+        </li>
+
+        <li>
+          <title>Student Hours</title>
+
+          <p>
+            Tu/Th 10-11am; Wed 10:30-11:30am.
+          </p>
+
+          <p>
+            Additional times by appointment.
+          </p>
+        </li>
+
+        <li>
+          <title>Class Meetings</title>
+
+          <p>
+            Thursdays 12:30-1:45pm in Ross Hall 2090.
+          </p>
+
+        </li>
+
+        <li>
+          <title>Course Description</title>
+
+          <p>
+            Provides support for students taking Calculus I by reviewing and exploring important prerequisite concepts required for calculus in a timely manner. Topics include relevant areas of algebra, trigonometry and pre-calculus.
+          </p>
+        </li>
+
+        <li>
+          <title>Co-requisite</title>
+
+          <p>
+            Concurrent enrollment in MATH 131 or MATH 171 required.
+          </p>
+        </li>
+
+        <li>
+          <title>Textbook and Course Materials</title>
+
+          <p>
+            No textbook required.
+          </p>
+
+          <p>
+            All course materials will be available through Canvas.
+          </p>
+        </li>
+        </dl>
+      </p>
+
+
+      <paragraphs>
+        <title>Course Objectives</title>
+
+        <p>
+          The goal of this course is to help you master the basic skills and concepts required to succeed in a calculus course.  This includes increasing your proficiency at algebraic manipulation as well as your ability to interpret mathematical statements accurately and communicate mathematics effectively.  Additionally, you will gain insight into the conceptual underpinnings of topics covered and develop productive strategies for studying calculus.
+        </p>
+      </paragraphs>
+    </section>
+
+    <section xml:id="sec-assessments">
+      <title>Assessments and Grades</title>
+
+      <p>
+        Your grade for the course will be based on participation in class and effort to strengthen your skills outside of class.
+      </p>
+
+
+      <paragraphs>
+        <title>Participation</title>
+
+        <p>
+          This course is designed to help you be successful in Calculus I.  It is intended to be a resource and I believe you will find the course useful and want to participate fully for that reason.
+        </p>
+
+        <p>
+          I understand though that you have lots of demands on your time, and that it can often help to have some explicit motivation to spend that time wisely.  Therefor, I will assign a participation score for each week of class.  Just showing up gets you half of the possible participation points.  To earn the other half, I expect you to engage actively in class.  This includes doing things like:
+          <ul>
+            <li>
+              <p>
+                Ask questions.
+                We know how hard this can be, but it is perhaps the single most important skill you can develop for a successful college experience.
+              </p>
+            </li>
+
+            <li>
+              <p>
+                Contribute to class discussions by answering questions and sharing your perspectives.
+                Everyone in the class brings their own unique experiences and insights, and we want to hear from you!
+              </p>
+            </li>
+
+            <li>
+              <p>
+                Don't even try to multitask.
+                Lots of research shows that basically no one is good at multitasking.
+                Focus on what we are doing in class.
+              </p>
+            </li>
+
+          </ul>
+        </p>
+
+        <p>
+          Your participation score will contribute 50% to your final grade.
+        </p>
+      </paragraphs>
+
+
+      <paragraphs>
+        <title>Assignments</title>
+
+        <p>
+          There are two sorts of tasks I will ask you to complete outside of class.
+        </p>
+
+        <p>
+          First, you will complete a very short discussion board post each week no later than Wednesday at 5pm.  The prompt for this will always be the same: <q>What is going well and what is going not-so-well in your Calculus course?  What can we do to help support you in that class?</q>.  Responding to this prompt will help guide our discussion the following day.  You will get full credit on this assignment if you submit it on time and answer honestly and thoughtfully.
+        </p>
+
+        <p>
+          Second, I will make a number of <em>practice problems</em> available through Canvas for you to bolster your algebraic skills to support your success in Calculus.  You do not need to complete all the practice problems (some of them will be too easy for you, others might be too hard at first).  All I ask of you is to spend an hour a week trying these.  Doing this prior to the Wednesday discussion board post is a great way to identify what you might want additional assistance with in class (i.e., for you to use as your response on your post).
+        </p>
+
+        <p>
+          The combination of these two tasks will contribute the second 50% to your final grade.
+        </p>
+      </paragraphs>
+
+      <paragraphs>
+      <title>Final Exam</title>
+
+      <p>
+        There is no final exam for this course.  However, the time reserved for the final exam is Tuesday, December 9 from 1:30pm to 4pm.  Since this is prior to your Calculus final exam, I will hold a review session during this time.  Attendance is optional but encouraged. 
+      </p>
+    </paragraphs>
+
+
+      <paragraphs>
+        <title>Grades</title>
+
+        <p>
+          <dl>
+          <li>
+            <title>Assessment Weights</title>
+
+            <p>
+              Your final grade will be calculated based on the following weights.
+            </p>
+
+            <tabular>
+              <col right="minor"/><col/>
+              <row bottom="minor">
+                <cell>Participation</cell>
+                <cell>50%</cell>
+              </row>
+
+              <row>
+                <cell>Assignments</cell>
+                <cell>50%</cell>
+              </row>
+            </tabular>
+          </li>
+
+          <li>
+            <title>Grade Scale</title>
+
+            <p>
+              This course uses a Satisfactory/Unsatisfactory (S/U) grading scale, determined as follows.
+            </p>
+
+            <tabular>
+              <col right="minor"/><col/>
+              <row bottom="minor">
+                <cell>S</cell>
+                <cell>65-100%</cell>
+              </row>
+
+              <row>
+                <cell>U</cell>
+                <cell>Below 65%</cell>
+              </row>
+            </tabular>
+          </li>
+          </dl>
+        </p>
+      </paragraphs>
+    </section>
+
+    <xi:include href="./policies.ptx"/>
+    <xi:include href="./success.ptx"/>
+    <xi:include href="./dates.ptx"/>
+
+  </chapter>

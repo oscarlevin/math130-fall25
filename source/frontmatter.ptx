@@ -5,11 +5,11 @@
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <bibinfo>
-    <author>
+    <!-- <author>
       <personname>Instructor Lastname</personname>
       <department>Mathematical Sciences</department>
       <institution>University of Templates</institution>
-    </author>
+    </author> -->
     <date>
       Last Updated: <today />
     </date>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-course-policies">
+  <title>Course Policies</title>
+
+  <paragraphs>
+    <title>Attendance</title>
+
+    <p>
+      You are expected to attend every class period.
+      It is impossible to receive participation points if you are not in class.
+    </p>
+
+    <p>
+      But what happens if you absolutely cannot attend class?  Maybe you are very ill, somebody has slashed your tires, and you are having a bad hair day!  These things happen, and I will try to be understanding when you communicate with me about your situation.
+      Please reach out to me as soon as possible to discuss your options.
+    </p>
+
+    <p>
+      One important note though: in this class, just like in <em>every</em> other class, missing a day of class, even with a perfectly valid excuse, does not excuse you from learning what was covered that day.
+      As your instructor, I will try to help you catch up, but this will take more work than it would have if you were in class.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Late work</title>
+
+    <p>
+      Late work will be accepted only under extenuating circumstances and must be discussed with me in advance.
+      Deadlines are set to encourage you to stay on track with the course material and manage your time effectively.
+      If you are struggling to meet a deadline, please reach out to me as soon as possible to discuss your options.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Classroom Decorum</title>
+
+        <p>
+          Turn off your cell phones when in class and keep them put away, arrive on time, and do not pack up your things before the end of class.  All of these are potential distractions to yourself and your classmates that could negatively impact your learning.
+        </p>
+
+    <p>
+      Additionally, I expect that you will treat all members of our course community with respect and kindness.
+      In doing mathematics, or almost anything worth doing in life, you are going to make many errors and false starts while becoming more proficient.
+      Think, for example, of learning to play a musical instrument, or learning an athletic skill, or developing a friendship.
+      I want to establish a classroom atmosphere where the inevitable struggles and mistakes become an opportunity to learn and grow; not an opportunity for embarrassment.
+      Thus, please be constructive and polite in questioning your colleagues in class.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Academic Integrity</title>
+
+    <p>
+      It is expected that members of this class will observe strict policies of academic honesty in every aspect of this course.
+      In particular, you are expected to solve homework problems by yourself or together with your group, and not find solutions online.
+      In general, UNC's policies and recommendations for academic misconduct will be followed.
+      For additional information, please see the Student Code of Conduct at the Dean of Student's website <url href="http://www.unco.edu/dos/Conduct/codeofconduct.html">http://www.unco.edu/dos/Conduct/codeofconduct.html</url>.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Generative AI</title>
+
+    <p>
+      The use of generative AI tools (such as ChatGPT, Google Gemini, or CoPilot) is allowed in this course, but it is your responsibility to ensure that you use of these tools with academic integrity.
+    </p>
+
+    <p>
+      What does this mean?  Ask yourself what you hope to get out of this course.
+      We <em>really</em> hope your answer involves learning new skills, becoming a better thinker, and understanding mathematics at a deeper level (even if these goals are in service to eventually getting a better paying and more fulfilling job).
+    </p>
+
+    <p>
+      AI tools can help you achieve these goals.
+      Here are a few example prompts that you might find useful and are completely inline with these goals.
+      <ul>
+        <li>
+          <p>
+            <q>I am trying to learn the concept <fillin characters="5" />.  Give me a sample question and ask me to find the answer and explain how I found it to you.  Then ask me some followup questions, acting like a student I am tutoring on the topic.  Make sure I can explain everything sufficiently so you can understand the concepts involved.</q>
+          </p>
+        </li>
+
+        <li>
+          <p>
+            <q>My professor gave me this sample quiz question: <fillin characters="10" />.  Generate 5 additional questions that are similar in style and difficulty and ask me to give you the answers.  Don't give me solutions until I have done so, but point out any errors I might have made.</q>
+          </p>
+        </li>
+
+        <li>
+          <p>
+            <q>Here is an example from my textbook: <fillin characters="10" />.  Make up a similar question and walk me through a solution step my step, asking me to ask questions after each step to make sure I really understand the process.</q>
+          </p>
+        </li>
+      </ul>
+    </p>
+
+    <p>
+      <alert>Warning:</alert> As good as AI has become recently, it is still not great at mathematics, so anything you get out of a generative AI tool should be approached with a fair amount of skepticism.
+      This is also a good way to learn mathematics though: play <q>find the mistake</q> in what AI gives you!
+    </p>
+
+
+    <p>
+      To be clear, you should NOT use AI tools to shortcut the learning process.
+      Getting someone else to do your work for you (even if that someone is a robot) is plagiarism and a violation of the academic integrity policy.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Title IX and Equal Opportunity</title>
+
+    <p>
+      The University of Northern Colorado is committed to providing a safe and inclusive learning environment for all students that is free from discrimination and harassment, including sexual harassment, sexual assault, domestic violence, dating violence, and stalking.
+      Students who have experienced (or who know someone who has experienced) any of these concerns should know that they are not alone.
+      UNC has staff members in the <url href="https://www.unco.edu/institutional-equity-compliance">University's Office of Institutional Equity and Compliance (OIEC)</url> who are trained to support students in navigating these concerns and are able to provide on- and off-campus resources and supports, referrals to health and counseling services, academic and housing modifications, and mutual no-contact orders between individuals.
+    </p>
+
+    <p>
+      Please be aware all UNC instructors and most staff members are required to report their awareness of sexual misconduct to the OIEC.
+      This means that if students tell an instructor about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, the instructor must share that information with the Title IX Coordinator and Equity Officer, Jimmy Kohles.
+      Mr.
+      Kohles or a trained staff member in OIEC will contact the reporting students to let them know about resources and support services at UNC as well as their options to pursue an investigation through OIEC, law enforcement, or both.
+      Students who have experienced these types of incidents are not required to speak with OIEC staff regarding the incident.
+      Students' participation in OIEC processes are entirely voluntary.
+    </p>
+
+    <p>
+      If students do not want the Title IX Coordinator notified, instead of disclosing this information to the instructor, students can speak confidentially with the following people on campus and in the community.
+      They can connect you with support services and help explore options now, or in the future.
+      UNC has confidential victim advocates available 24/7 by phone - students can contact the <url href="https://www.unco.edu/center-enhancement-teaching-learning/teaching-resources/unco.edu/asap">Assault Survivors Advocacy Program (ASAP)</url> at 970-351-1490 to seek confidential guidance and support.
+    </p>
+  </paragraphs>
+
+
+
+</section>

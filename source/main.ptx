@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <xi:include href="./docinfo.ptx" />
+  <book xml:id="math130">
+    <title>Success in the Mathematical Sciences</title>
+    <subtitle>MATH 130 Fall 2025</subtitle>
+
+    <!-- <xi:include href="./frontmatter.ptx" /> -->
+
+    <xi:include href="./syllabus/syllabus.ptx" />
+
+  </book>
+</pretext>
