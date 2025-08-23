@@ -5,7 +5,7 @@
 
   <xi:include href="./docinfo.ptx" />
   <book xml:id="math130">
-    <title>Success in the Mathematical Sciences</title>
+    <title>Supplemental Calculus</title>
     <subtitle>MATH 130 Fall 2025</subtitle>
 
     <!-- <xi:include href="./frontmatter.ptx" /> -->
